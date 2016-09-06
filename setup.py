@@ -55,6 +55,7 @@ extras_require = {
     ],
     'github': [
         'github3.py>=1.0.0a4',
+        'uritemplate.py>=0.2.0,<2.0',
     ],
     'orcid': [],
     'mysql': [
